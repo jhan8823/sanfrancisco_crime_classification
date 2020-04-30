@@ -9,7 +9,7 @@
   
 ### 사용 된 패키지: 
   - EDA/전처리: 
-    - pandas, numpy, matplotlib, seaborn, scipy(csrmatrix)
+    - pandas, numpy, matplotlib, seaborn, scipy(csrmatrix), folium
   - Modeling/Validation/Hyperparameter Tuning:
     - lightgbm, scikit-learn, bayes_opt (Bayesian Optimization)
 
